@@ -39,7 +39,7 @@ const HomePage = () => {
     <div className="home-page">
       <header className="app-header">
         <h1>
-          <img src="/logo-seminaire.png" alt="Logo" className="header-logo logo-circle" />
+          <img src="/logo-seminaire.png" alt="Logo" className="header-logo" />
           Gestion Séminaristes An-nour
         </h1>
 

@@ -36,14 +36,11 @@ const LoginPage = () => {
   return (
     <div className="login-page">
       <div className="login-container">
-        <div className="login-header">
-        <h1>
-          <div className="logo-login">
-            <img src="/logo-seminaire.png" alt="Logo" className="logo-main" />
-          </div>
+        <h1 className='logo-login'>
+          <img src="/logo-seminaire.png" alt="Logo"  />{' '}
         </h1>
         <h1>Gestion Séminaristes</h1>
-        </div>
+       
 
         <h2>Commission Administration</h2>
         
